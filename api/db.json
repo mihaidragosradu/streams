@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Programatic navigation",
+      "description": "You shoud",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me refactor some ",
+      "id": 4
+    },
+    {
+      "title": "Another",
+      "description": "stream",
+      "userId": "105621295349561453620",
+      "id": 5
+    },
+    {
+      "title": "Discord de tot",
+      "description": "Cu Andrei Dumitrescu Magister22",
+      "userId": "105621295349561453620",
+      "id": 6
+    },
+    {
+      "title": "Stream cu Otto",
+      "description": "Telemedicina App",
+      "userId": "105621295349561453620",
+      "id": 7
+    }
+  ]
+}
